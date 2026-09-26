@@ -1,0 +1,547 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Maharashtra,Pune,2005,Kharif,Rice,4756.2,12745.9
+Maharashtra,Pune,2005,Rabi,Wheat,12803.6,36608.1
+Maharashtra,Pune,2005,Kharif,Sugarcane,8528.1,478411.1
+Maharashtra,Pune,2006,Kharif,Rice,7933.1,21633.0
+Maharashtra,Pune,2006,Rabi,Wheat,12417.9,40792.2
+Maharashtra,Pune,2006,Kharif,Cotton,8268.5,12027.0
+Maharashtra,Pune,2006,Kharif,Sugarcane,10106.7,631238.0
+Maharashtra,Pune,2007,Kharif,Rice,9619.7,24937.0
+Maharashtra,Pune,2007,Kharif,Cotton,7802.8,11045.9
+Maharashtra,Pune,2007,Kharif,Sugarcane,5691.5,411797.0
+Maharashtra,Pune,2008,Kharif,Rice,7405.2,17218.5
+Maharashtra,Pune,2008,Rabi,Wheat,6708.5,20149.5
+Maharashtra,Pune,2008,Kharif,Cotton,9603.8,13703.5
+Maharashtra,Pune,2008,Kharif,Sugarcane,9923.0,651908.7
+Maharashtra,Pune,2009,Kharif,Rice,6528.9,15357.3
+Maharashtra,Pune,2009,Rabi,Wheat,5325.8,16201.2
+Maharashtra,Pune,2009,Kharif,Cotton,14068.4,20473.6
+Maharashtra,Pune,2010,Kharif,Rice,5297.3,13435.1
+Maharashtra,Pune,2010,Rabi,Wheat,11600.7,33849.4
+Maharashtra,Pune,2010,Kharif,Cotton,4454.2,5915.4
+Maharashtra,Pune,2010,Kharif,Sugarcane,5735.6,422474.1
+Maharashtra,Pune,2011,Kharif,Rice,8480.6,20135.0
+Maharashtra,Pune,2011,Rabi,Wheat,12368.5,36365.7
+Maharashtra,Pune,2011,Kharif,Sugarcane,8274.9,554220.0
+Maharashtra,Pune,2012,Kharif,Rice,10969.1,30083.0
+Maharashtra,Pune,2012,Rabi,Wheat,6818.3,17221.0
+Maharashtra,Pune,2012,Kharif,Cotton,5812.5,7179.0
+Maharashtra,Pune,2013,Rabi,Wheat,12982.2,33098.2
+Maharashtra,Pune,2013,Kharif,Cotton,6766.6,9327.8
+Maharashtra,Pune,2013,Kharif,Sugarcane,10724.7,652133.4
+Maharashtra,Pune,2014,Kharif,Rice,11895.0,29952.5
+Maharashtra,Pune,2014,Kharif,Cotton,12285.6,18096.0
+Maharashtra,Pune,2014,Kharif,Sugarcane,4227.4,272499.8
+Maharashtra,Pune,2015,Kharif,Rice,5051.7,12647.9
+Maharashtra,Pune,2015,Rabi,Wheat,8590.5,25562.3
+Maharashtra,Pune,2015,Kharif,Cotton,6461.2,9012.2
+Maharashtra,Pune,2015,Kharif,Sugarcane,10937.9,729942.0
+Maharashtra,Pune,2016,Kharif,Rice,10052.6,23859.5
+Maharashtra,Pune,2016,Rabi,Wheat,6672.0,19443.4
+Maharashtra,Pune,2016,Kharif,Sugarcane,10205.5,726629.9
+Maharashtra,Pune,2017,Kharif,Rice,8050.1,19793.7
+Maharashtra,Pune,2017,Rabi,Wheat,10001.2,25789.0
+Maharashtra,Pune,2017,Kharif,Cotton,7615.6,10288.0
+Maharashtra,Pune,2017,Kharif,Sugarcane,7687.4,437688.9
+Maharashtra,Pune,2018,Kharif,Rice,3880.2,11058.4
+Maharashtra,Pune,2018,Kharif,Cotton,9770.1,14574.5
+Maharashtra,Pune,2018,Kharif,Sugarcane,6621.8,453743.1
+Maharashtra,Pune,2019,Kharif,Rice,6694.7,
+Maharashtra,Pune,2019,Rabi,Wheat,5016.0,14040.9
+Maharashtra,Pune,2019,Kharif,Cotton,4975.0,7306.4
+Maharashtra,Pune,2019,Kharif,Sugarcane,12177.6,799496.6
+Maharashtra,Pune,2020,Kharif,Rice,9940.9,26033.6
+Maharashtra,Pune,2020,Rabi,Wheat,5943.9,19356.2
+Maharashtra,Pune,2020,Kharif,Cotton,8293.8,10963.2
+Maharashtra,Pune,2020,Kharif,Sugarcane,8987.0,574376.4
+Maharashtra,Pune  ,2021,Kharif,Rice,17820.2,34439.9
+Maharashtra,Pune,2021,Rabi,Wheat,4795.6,13526.7
+Maharashtra,Pune,2021,Kharif,Cotton,8930.2,8772.0
+Maharashtra,Pune,2021,Kharif,Sugarcane,12146.0,718417.5
+Maharashtra,Pune,2022,Kharif,Cotton,5809.9,8893.6
+Maharashtra,Pune,2022,Kharif,Sugarcane,6583.3,476354.3
+Maharashtra,Nashik,2005,Kharif,Rice,10990.3,24665.9
+Maharashtra,Nashik,2005,Kharif,Cotton,4814.6,
+Maharashtra,Nashik,2005,Kharif,Sugarcane,12164.3,914174.1
+Maharashtra,Nashik,2006,Kharif,Rice,34342.1,84995.7
+Maharashtra,Nashik,2006,Rabi,Wheat,4877.7,14714.8
+Maharashtra,Nashik,2006,Kharif,Cotton,9145.8,10618.6
+Maharashtra,Nashik,2006,Kharif,Sugarcane,6499.7,446002.7
+Maharashtra,Nashik,2007,Kharif,Rice,7456.2,16779.6
+Maharashtra,Nashik,2007,Rabi,Wheat,8653.5,25982.4
+Maharashtra,Nashik,2007,Kharif,Sugarcane,3462.9,194947.3
+Maharashtra,Nashik,2008,Kharif,Rice,7787.7,20318.4
+Maharashtra,Nashik,2008,Rabi,Wheat,8538.4,28259.6
+Maharashtra,Nashik,2008,Kharif,Sugarcane,4423.7,271168.4
+Maharashtra,Nashik,2009,Rabi,Wheat,23189.0,62066.6
+Maharashtra,Nashik,2009,Kharif,Cotton,12166.5,14003.6
+Maharashtra,Nashik,2009,Kharif,Sugarcane,12746.1,842748.3
+Maharashtra,Nashik  ,2010,Kharif,Rice,7397.4,17763.5
+Maharashtra,Nashik,2010,Rabi,Wheat,5766.4,14483.4
+Maharashtra,Nashik,2010,Kharif,Cotton,6372.2,8954.6
+Maharashtra,Nashik,2010,Kharif,Sugarcane,4222.7,268130.3
+Maharashtra,Nashik,2011,Kharif,Rice,17619.2,41200.9
+Maharashtra,Nashik,2011,Rabi,Wheat,7539.2,22227.6
+Maharashtra,Nashik,2011,Kharif,Cotton,15370.4,22990.8
+Maharashtra,Nashik  ,2011,Kharif,Sugarcane,6514.2,456938.4
+Maharashtra,Nashik,2012,Kharif,Rice,9912.7,25135.6
+Maharashtra,Nashik,2012,Rabi,Wheat,8767.6,26404.1
+Maharashtra,Nashik,2012,Kharif,Cotton,4036.4,5051.9
+Maharashtra,Nashik,2013,Kharif,Rice,7313.2,18721.9
+Maharashtra,Nashik,2013,Rabi,Wheat,16612.6,51199.6
+Maharashtra,Nashik,2013,Kharif,Cotton,16153.4,
+Maharashtra,Nashik,2013,Kharif,Sugarcane,11035.4,762630.7
+Maharashtra,Nashik,2014,Kharif,Rice,7979.5,19436.4
+Maharashtra,Nashik,2014,Kharif,Sugarcane,8370.7,591967.4
+Maharashtra,Nashik,2015,Kharif,Rice,2870.1,7366.8
+Maharashtra,Nashik,2015,Rabi,Wheat,5247.9,12265.3
+Maharashtra,Nashik,2015,Kharif,Cotton,5157.1,7476.2
+Maharashtra,Nashik,2015,Kharif,Sugarcane,12646.7,614837.8
+Maharashtra,Nashik,2016,Kharif,Rice,8123.5,19404.8
+Maharashtra,Nashik,2016,Kharif,Cotton,6279.9,9193.1
+Maharashtra,Nashik,2016,Kharif,Sugarcane,13208.0,845904.5
+Maharashtra,Nashik,2017,Kharif,Rice,15613.6,32854.0
+Maharashtra,Nashik,2017,Rabi,Wheat,5649.0,14964.3
+Maharashtra,Nashik,2017,Kharif,Sugarcane,8738.4,589556.9
+Maharashtra,Nashik,2018,Kharif,Cotton,28167.8,32867.2
+Maharashtra,Nashik,2018,Kharif,Sugarcane,5221.7,381279.0
+Maharashtra,Nashik,2019,Kharif,Rice,3848.6,9912.4
+Maharashtra,Nashik,2019,Rabi,Wheat,9367.5,
+Maharashtra,Nashik,2019,Kharif,Sugarcane,5768.2,372070.3
+Maharashtra,Nashik,2020,Kharif,Rice,7375.1,17414.3
+Maharashtra,Nashik,2020,Rabi,Wheat,6139.4,19984.3
+Maharashtra,Nashik,2020,Kharif,Cotton,14032.4,20559.7
+Maharashtra,Nashik,2020,Kharif,Sugarcane,3322.0,192609.8
+Maharashtra,Nashik,2021,Kharif,Rice,23198.0,47969.0
+Maharashtra,Nashik,2021,Rabi,Wheat,4623.0,13269.4
+Maharashtra,Nashik,2021,Kharif,Cotton,34191.4,43411.0
+Maharashtra,Nashik,2022,Kharif,Rice,9489.8,21022.0
+Maharashtra,Nashik,2022,Rabi,Wheat,4884.2,17071.7
+Maharashtra,Nashik,2022,Kharif,Sugarcane,9942.6,644069.3
+Maharashtra,Ahmednagar,2005,Kharif,Rice,7482.2,17509.3
+Maharashtra,Ahmednagar,2006,Kharif,Rice,6060.4,14724.7
+Maharashtra,Ahmednagar,2006,Rabi,Wheat,13273.9,37174.4
+Maharashtra,Ahmednagar,2006,Kharif,Cotton,9538.3,11848.3
+Maharashtra,Ahmednagar,2006,Kharif,Sugarcane,8000.3,541580.2
+Maharashtra,Ahmednagar,2007,Kharif,Rice,9371.6,20786.9
+Maharashtra,Ahmednagar,2007,Rabi,Wheat,32670.9,79711.7
+Maharashtra,Ahmednagar,2007,Kharif,Cotton,17568.7,22562.2
+Maharashtra,Ahmednagar,2007,Kharif,Sugarcane,5462.5,300723.2
+Maharashtra,Ahmednagar,2008,Kharif,Rice,9115.9,21422.3
+Maharashtra,Ahmednagar,2008,Kharif,Cotton,9123.2,11390.1
+Maharashtra,Ahmednagar  ,2008,Kharif,Sugarcane,3343.9,203437.6
+Maharashtra,Ahmednagar,2009,Kharif,Rice,10040.7,30087.9
+Maharashtra,Ahmednagar,2009,Rabi,Wheat,6319.7,18691.4
+Maharashtra,Ahmednagar,2009,Kharif,Cotton,8212.6,11647.1
+Maharashtra,Ahmednagar,2009,Kharif,Sugarcane,7596.6,440277.7
+Maharashtra,Ahmednagar,2010,Kharif,Rice,8634.1,20607.3
+Maharashtra,Ahmednagar,2010,Rabi,Wheat,2216.9,6466.5
+Maharashtra,Ahmednagar,2010,Kharif,Cotton,8738.1,10878.6
+Maharashtra,Ahmednagar,2010,Kharif,Sugarcane,6642.5,469315.7
+Maharashtra,Ahmednagar,2011,Kharif,Rice,9425.7,21796.2
+Maharashtra,Ahmednagar,2011,Rabi,Wheat,3715.5,11200.3
+Maharashtra,Ahmednagar  ,2011,Kharif,Cotton,6788.2,8913.7
+Maharashtra,Ahmednagar,2011,Kharif,Sugarcane,4725.6,
+Maharashtra,Ahmednagar,2012,Kharif,Rice,15324.7,37255.2
+Maharashtra,Ahmednagar,2012,Rabi,Wheat,19022.0,53399.6
+Maharashtra,Ahmednagar,2012,Kharif,Cotton,9964.1,13488.0
+Maharashtra,Ahmednagar,2012,Kharif,Sugarcane,9963.6,628484.9
+Maharashtra,Ahmednagar,2013,Kharif,Rice,6897.5,18295.6
+Maharashtra,Ahmednagar,2013,Rabi,Wheat,5644.8,17522.4
+Maharashtra,Ahmednagar,2013,Kharif,Cotton,4438.4,6059.1
+Maharashtra,Ahmednagar,2013,Kharif,Sugarcane,7272.6,468948.2
+Maharashtra,Ahmednagar,2014,Kharif,Rice,11645.0,32181.6
+Maharashtra,Ahmednagar,2014,Rabi,Wheat,11528.6,34290.0
+Maharashtra,Ahmednagar,2014,Kharif,Cotton,7736.6,10557.4
+Maharashtra,Ahmednagar,2014,Kharif,Sugarcane,6173.7,423002.0
+Maharashtra,Ahmednagar  ,2015,Kharif,Rice,11003.4,30719.8
+Maharashtra,Ahmednagar,2015,Rabi,Wheat,4819.1,13116.4
+Maharashtra,Ahmednagar,2015,Kharif,Cotton,4354.3,6118.5
+Maharashtra,Ahmednagar,2016,Kharif,Rice,5773.5,12309.2
+Maharashtra,Ahmednagar,2016,Rabi,Wheat,10846.3,32597.3
+Maharashtra,Ahmednagar,2016,Kharif,Cotton,9315.0,14190.4
+Maharashtra,Ahmednagar  ,2016,Kharif,Sugarcane,9839.3,671845.0
+Maharashtra,Ahmednagar,2017,Kharif,Rice,2851.4,6889.9
+Maharashtra,Ahmednagar,2017,Rabi,Wheat,10749.9,29808.0
+Maharashtra,Ahmednagar,2018,Kharif,Rice,12215.8,31357.5
+Maharashtra,Ahmednagar,2018,Rabi,Wheat,12017.0,35973.0
+Maharashtra,Ahmednagar,2018,Kharif,Cotton,8987.9,11613.2
+Maharashtra,Ahmednagar  ,2018,Kharif,Sugarcane,9157.9,599077.9
+Maharashtra,Ahmednagar,2019,Kharif,Rice,7431.1,19529.4
+Maharashtra,Ahmednagar,2019,Rabi,Wheat,9690.4,25893.7
+Maharashtra,Ahmednagar,2019,Kharif,Cotton,4712.3,6140.8
+Maharashtra,Ahmednagar,2019,Kharif,Sugarcane,16779.7,1011770.2
+Maharashtra,Ahmednagar,2020,Kharif,Rice,5303.2,14057.4
+Maharashtra,Ahmednagar,2020,Rabi,Wheat,12202.4,38766.3
+Maharashtra,Ahmednagar,2020,Kharif,Cotton,15547.8,21917.9
+Maharashtra,Ahmednagar,2020,Kharif,Sugarcane,12186.8,882526.6
+Maharashtra,Ahmednagar,2021,Rabi,Wheat,7220.0,22417.2
+Maharashtra,Ahmednagar,2021,Kharif,Sugarcane,6363.6,366786.2
+Maharashtra,Ahmednagar,2022,Rabi,Wheat,3590.6,11393.1
+Maharashtra,Ahmednagar  ,2022,Kharif,Cotton,3592.3,4768.6
+Maharashtra,Ahmednagar,2022,Kharif,Sugarcane,9966.8,619870.6
+Maharashtra,Solapur,2005,Kharif,Rice,9185.1,27894.6
+Maharashtra,Solapur,2005,Kharif,Cotton,8220.4,11006.9
+Maharashtra,Solapur,2005,Kharif,Sugarcane,10065.7,643008.7
+Maharashtra,Solapur,2006,Rabi,Wheat,5744.6,17787.4
+Maharashtra,Solapur,2006,Kharif,Cotton,11699.1,16508.6
+Maharashtra,Solapur,2006,Kharif,Sugarcane,10427.8,621859.8
+Maharashtra,Solapur,2007,Kharif,Rice,7312.9,19603.1
+Maharashtra,Solapur  ,2007,Rabi,Wheat,12057.7,35366.0
+Maharashtra,Solapur,2007,Kharif,Cotton,10381.5,12527.8
+Maharashtra,Solapur,2008,Kharif,Cotton,4183.7,6168.6
+Maharashtra,Solapur,2008,Kharif,Sugarcane,2490.9,171049.5
+Maharashtra,Solapur,2009,Rabi,Wheat,6937.9,18361.1
+Maharashtra,Solapur,2009,Kharif,Cotton,0.0,21909.9
+Maharashtra,Solapur,2009,Kharif,Sugarcane,7728.2,549618.5
+Maharashtra,Solapur,2010,Rabi,Wheat,15740.5,45099.1
+Maharashtra,Solapur,2010,Kharif,Cotton,5263.2,8045.5
+Maharashtra,Solapur,2010,Kharif,Sugarcane,3815.9,254550.6
+Maharashtra,Solapur,2011,Kharif,Rice,6688.8,17075.5
+Maharashtra,Solapur,2011,Rabi,Wheat,18912.6,55265.9
+Maharashtra,Solapur,2011,Kharif,Cotton,9736.2,14038.0
+Maharashtra,Solapur,2011,Kharif,Sugarcane,10143.1,704627.6
+Maharashtra,Solapur,2012,Kharif,Rice,3202.7,8216.1
+Maharashtra,Solapur,2012,Rabi,Wheat,5911.7,15891.2
+Maharashtra,Solapur,2012,Kharif,Cotton,4685.9,6532.5
+Maharashtra,Solapur,2012,Kharif,Sugarcane,9908.4,660306.7
+Maharashtra,Solapur,2013,Kharif,Rice,9428.8,21507.2
+Maharashtra,Solapur,2013,Kharif,Cotton,6739.9,8175.6
+Maharashtra,Solapur,2013,Kharif,Sugarcane,13640.6,952121.5
+Maharashtra,Solapur,2014,Kharif,Rice,13967.6,28734.5
+Maharashtra,Solapur,2014,Kharif,Cotton,9524.1,13542.4
+Maharashtra,Solapur,2014,Kharif,Sugarcane,22599.6,1476859.5
+Maharashtra,Solapur,2015,Rabi,Wheat,13702.3,46145.6
+Maharashtra,Solapur,2015,Kharif,Cotton,9449.6,12014.1
+Maharashtra,Solapur,2015,Kharif,Sugarcane,9359.5,633482.0
+Maharashtra,Solapur,2016,Kharif,Rice,3613.4,8790.6
+Maharashtra,Solapur,2016,Rabi,Wheat,4575.7,13639.8
+Maharashtra,Solapur,2016,Kharif,Sugarcane,21074.4,1466492.0
+Maharashtra,Solapur,2017,Kharif,Rice,4945.1,11351.9
+Maharashtra,Solapur,2017,Rabi,Wheat,6526.7,20457.7
+Maharashtra,Solapur,2017,Kharif,Cotton,8776.7,10370.1
+Maharashtra,Solapur,2017,Kharif,Sugarcane,6751.8,430865.2
+Maharashtra,Solapur,2018,Kharif,Rice,4519.8,12427.6
+Maharashtra,Solapur,2018,Rabi,Wheat,29320.3,94306.8
+Maharashtra,Solapur,2018,Kharif,Cotton,16379.8,26046.7
+Maharashtra,Solapur,2018,Kharif,Sugarcane,10695.6,672532.5
+Maharashtra,Solapur,2019,Kharif,Rice,7346.6,16908.7
+Maharashtra,Solapur,2019,Rabi,Wheat,9920.4,25995.2
+Maharashtra,Solapur,2019,Kharif,Cotton,11158.9,16365.6
+Maharashtra,Solapur,2019,Kharif,Sugarcane,9609.1,676049.7
+Maharashtra,Solapur,2020,Kharif,Rice,10038.5,26014.0
+Maharashtra,Solapur,2020,Rabi,Wheat,12771.5,35385.5
+Maharashtra,Solapur,2020,Kharif,Cotton,6764.2,9936.4
+Maharashtra,Solapur,2020,Kharif,Sugarcane,3788.3,229719.9
+Maharashtra,Solapur,2021,Kharif,Rice,12516.3,29224.5
+Maharashtra,Solapur,2021,Rabi,Wheat,3774.2,14296.7
+Maharashtra,Solapur,2021,Kharif,Cotton,6096.4,7220.1
+Maharashtra,Solapur,2021,Kharif,Sugarcane,9943.1,581597.0
+Maharashtra,Solapur,2022,Kharif,Rice,10094.4,24080.5
+Maharashtra,Solapur,2022,Rabi,Wheat,6894.9,18265.5
+Maharashtra,Solapur  ,2022,Kharif,Cotton,7662.9,9753.1
+Maharashtra,Solapur,2022,Kharif,Sugarcane,9504.5,563359.6
+Punjab,Ludhiana,2005,Kharif,Rice,5670.4,8899.8
+Punjab,Ludhiana,2005,Rabi,Wheat,18063.8,61974.8
+Punjab,Ludhiana,2005,Kharif,Cotton,5132.5,5012.6
+Punjab,Ludhiana,2005,Kharif,Sugarcane,7270.1,347752.0
+Punjab,Ludhiana,2006,Kharif,Rice,6412.0,11295.0
+Punjab,Ludhiana,2006,Kharif,Cotton,9102.6,
+Punjab,Ludhiana,2006,Kharif,Sugarcane,6676.2,339713.3
+Punjab,Ludhiana,2007,Kharif,Rice,6392.7,11237.3
+Punjab,Ludhiana,2007,Kharif,Cotton,11003.1,10885.1
+Punjab,Ludhiana,2007,Kharif,Sugarcane,14201.5,644333.1
+Punjab,Ludhiana,2008,Kharif,Rice,5398.7,9146.1
+Punjab,Ludhiana,2008,Rabi,Wheat,5292.7,14089.0
+Punjab,Ludhiana,2008,Kharif,Cotton,7314.3,5774.6
+Punjab,Ludhiana,2008,Kharif,Sugarcane,7387.9,329511.7
+Punjab,Ludhiana,2009,Rabi,Wheat,11391.5,33514.8
+Punjab,Ludhiana,2009,Kharif,Cotton,9698.4,7909.0
+Punjab,Ludhiana,2009,Kharif,Sugarcane,9278.0,408521.0
+Punjab,Ludhiana,2010,Kharif,Rice,7659.1,13527.2
+Punjab,Ludhiana,2010,Rabi,Wheat,5488.6,13535.8
+Punjab,Ludhiana,2010,Kharif,Cotton,4293.9,3768.4
+Punjab,Ludhiana,2010,Kharif,Sugarcane,6187.7,293870.5
+Punjab,Ludhiana,2011,Rabi,Wheat,9455.4,29479.6
+Punjab,Ludhiana,2011,Kharif,Cotton,5455.8,4372.2
+Punjab,Ludhiana,2011,Kharif,Sugarcane,11578.5,502801.1
+Punjab,Ludhiana,2012,Rabi,Wheat,10524.0,33410.5
+Punjab,Ludhiana,2012,Kharif,Cotton,3878.2,3507.2
+Punjab,Ludhiana,2013,Kharif,Rice,5101.8,8877.3
+Punjab,Ludhiana,2013,Rabi,Wheat,3865.3,11225.1
+Punjab,Ludhiana,2013,Kharif,Cotton,14930.7,13386.9
+Punjab,Ludhiana,2013,Kharif,Sugarcane,9594.3,456443.3
+Punjab,Ludhiana,2014,Kharif,Rice,4487.4,8039.3
+Punjab,Ludhiana,2014,Rabi,Wheat,4680.4,14109.5
+Punjab,Ludhiana,2014,Kharif,Sugarcane,4442.1,207100.1
+Punjab,Ludhiana,2015,Kharif,Rice,8999.5,16863.2
+Punjab,Ludhiana,2015,Rabi,Wheat,4341.6,13200.6
+Punjab,Ludhiana,2015,Kharif,Cotton,19887.5,20014.4
+Punjab,Ludhiana,2015,Kharif,Sugarcane,6472.0,318411.9
+Punjab,Ludhiana,2016,Kharif,Cotton,6166.6,5751.9
+Punjab,Ludhiana  ,2016,Kharif,Sugarcane,9027.5,373892.2
+Punjab,Ludhiana,2017,Kharif,Rice,10351.7,20338.4
+Punjab,Ludhiana,2017,Rabi,Wheat,15129.8,44275.5
+Punjab,Ludhiana,2017,Kharif,Cotton,5819.0,4728.0
+Punjab,Ludhiana,2017,Kharif,Sugarcane,11715.4,505237.9
+Punjab,Ludhiana,2018,Rabi,Wheat,10469.4,32714.7
+Punjab,Ludhiana,2018,Kharif,Sugarcane,3925.8,164036.9
+Punjab,Ludhiana,2019,Kharif,Rice,5344.9,8700.8
+Punjab,Ludhiana,2019,Rabi,Wheat,11431.3,37314.9
+Punjab,Ludhiana,2019,Kharif,Sugarcane,16527.6,672245.5
+Punjab,Ludhiana,2020,Kharif,Rice,8129.5,12928.6
+Punjab,Ludhiana,2020,Rabi,Wheat,5868.6,18014.7
+Punjab,Ludhiana,2020,Kharif,Sugarcane,6511.8,298357.6
+Punjab,Ludhiana,2021,Kharif,Rice,4754.8,8728.4
+Punjab,Ludhiana,2021,Rabi,Wheat,17902.0,55497.9
+Punjab,Ludhiana,2021,Kharif,Cotton,6532.6,6309.3
+Punjab,Ludhiana,2021,Kharif,Sugarcane,6849.7,328683.6
+Punjab,Ludhiana,2022,Kharif,Rice,7275.3,12221.3
+Punjab,Ludhiana,2022,Rabi,Wheat,10689.1,31675.5
+Punjab,Ludhiana,2022,Kharif,Cotton,3789.5,3530.4
+Punjab,Ludhiana,2022,Kharif,Sugarcane,22326.7,1018908.6
+Punjab,Amritsar,2005,Kharif,Rice,6758.4,12737.6
+Punjab,Amritsar,2005,Kharif,Cotton,0.0,3361.3
+Punjab,Amritsar,2005,Kharif,Sugarcane,6581.2,306600.3
+Punjab,Amritsar,2006,Kharif,Rice,7332.8,12387.2
+Punjab,Amritsar,2006,Rabi,Wheat,4607.0,13540.9
+Punjab,Amritsar,2006,Kharif,Cotton,9385.3,9107.4
+Punjab,Amritsar,2006,Kharif,Sugarcane,8742.0,419346.2
+Punjab,Amritsar,2007,Kharif,Rice,6804.2,14108.5
+Punjab,Amritsar,2007,Rabi,Wheat,7930.1,22935.0
+Punjab,Amritsar,2007,Kharif,Cotton,6741.4,6613.6
+Punjab,Amritsar,2007,Kharif,Sugarcane,3409.7,170599.1
+Punjab,Amritsar,2008,Kharif,Rice,10180.5,17871.4
+Punjab,Amritsar,2008,Rabi,Wheat,2219.0,7900.9
+Punjab,Amritsar,2008,Kharif,Cotton,9167.1,8337.7
+Punjab,Amritsar,2008,Kharif,Sugarcane,4141.4,193551.9
+Punjab,Amritsar,2009,Kharif,Rice,9526.9,15055.5
+Punjab,Amritsar,2009,Rabi,Wheat,9698.7,27607.2
+Punjab,Amritsar,2009,Kharif,Cotton,9711.3,9003.7
+Punjab,Amritsar,2009,Kharif,Sugarcane,12035.1,567361.9
+Punjab,Amritsar,2010,Kharif,Rice,14958.9,26978.3
+Punjab,Amritsar,2010,Rabi,Wheat,6434.9,21109.0
+Punjab,Amritsar,2010,Kharif,Cotton,11879.8,11164.0
+Punjab,Amritsar,2011,Kharif,Rice,6469.2,10325.0
+Punjab,Amritsar,2011,Rabi,Wheat,7075.0,26023.9
+Punjab,Amritsar,2011,Kharif,Sugarcane,5291.4,234061.4
+Punjab,Amritsar,2012,Rabi,Wheat,4941.3,13666.4
+Punjab,Amritsar,2012,Kharif,Cotton,7234.7,5817.6
+Punjab,Amritsar,2012,Kharif,Sugarcane,7077.4,270609.6
+Punjab,Amritsar,2013,Rabi,Wheat,13518.1,43840.0
+Punjab,Amritsar,2013,Kharif,Cotton,5074.1,4651.0
+Punjab,Amritsar,2013,Kharif,Sugarcane,7161.2,331745.5
+Punjab,Amritsar,2014,Kharif,Rice,7945.6,13944.8
+Punjab,Amritsar  ,2014,Kharif,Cotton,7951.8,7995.0
+Punjab,Amritsar,2014,Kharif,Sugarcane,4355.7,187339.5
+Punjab,Amritsar,2015,Kharif,Rice,11271.9,18117.1
+Punjab,Amritsar,2015,Rabi,Wheat,4798.5,14740.1
+Punjab,Amritsar,2015,Kharif,Cotton,14061.6,13955.6
+Punjab,Amritsar,2015,Kharif,Sugarcane,3785.3,178733.2
+Punjab,Amritsar,2016,Kharif,Rice,16610.4,28761.1
+Punjab,Amritsar,2016,Rabi,Wheat,11741.2,37599.0
+Punjab,Amritsar,2016,Kharif,Sugarcane,10007.6,455743.5
+Punjab,Amritsar,2017,Kharif,Rice,10525.6,17639.2
+Punjab,Amritsar,2017,Kharif,Cotton,8658.2,7537.4
+Punjab,Amritsar,2017,Kharif,Sugarcane,11976.5,604799.1
+Punjab,Amritsar,2018,Rabi,Wheat,13201.3,40821.0
+Punjab,Amritsar,2018,Kharif,Cotton,4802.5,4430.5
+Punjab,Amritsar  ,2018,Kharif,Sugarcane,8406.1,395129.9
+Punjab,Amritsar,2019,Kharif,Rice,19653.2,40865.6
+Punjab,Amritsar,2019,Rabi,Wheat,6643.1,16833.2
+Punjab,Amritsar,2019,Kharif,Cotton,8045.9,6919.4
+Punjab,Amritsar,2019,Kharif,Sugarcane,4815.8,
+Punjab,Amritsar  ,2020,Kharif,Rice,19531.4,30921.5
+Punjab,Amritsar,2020,Rabi,Wheat,5048.1,13924.7
+Punjab,Amritsar,2020,Kharif,Cotton,11015.0,9834.3
+Punjab,Amritsar,2020,Kharif,Sugarcane,14943.5,599321.7
+Punjab,Amritsar,2021,Kharif,Rice,11582.0,20997.3
+Punjab,Amritsar,2021,Kharif,Sugarcane,8341.6,386785.1
+Punjab,Amritsar,2022,Kharif,Rice,4218.7,7515.2
+Punjab,Amritsar,2022,Rabi,Wheat,18990.5,58268.9
+Punjab,Amritsar,2022,Kharif,Cotton,9088.8,8800.1
+Punjab,Amritsar,2022,Kharif,Sugarcane,8048.4,350299.3
+Punjab,Patiala,2005,Rabi,Wheat,9756.5,34412.0
+Punjab,Patiala,2005,Kharif,Cotton,4170.8,4061.1
+Punjab,Patiala,2006,Rabi,Wheat,12510.2,31122.7
+Punjab,Patiala,2006,Kharif,Sugarcane,8178.8,355376.8
+Punjab,Patiala,2007,Kharif,Rice,4656.3,7063.6
+Punjab,Patiala,2007,Rabi,Wheat,5509.1,16653.0
+Punjab,Patiala,2007,Kharif,Cotton,10330.0,9707.5
+Punjab,Patiala,2007,Kharif,Sugarcane,3274.2,145263.9
+Punjab,Patiala,2008,Rabi,Wheat,13586.2,47308.9
+Punjab,Patiala,2008,Kharif,Cotton,8157.2,7986.6
+Punjab,Patiala,2008,Kharif,Sugarcane,4653.4,224298.3
+Punjab,Patiala,2009,Kharif,Rice,9670.5,15109.7
+Punjab,Patiala,2009,Rabi,Wheat,13865.9,37365.1
+Punjab,Patiala,2009,Kharif,Cotton,4294.5,3915.3
+Punjab,Patiala,2009,Kharif,Sugarcane,8917.9,399201.1
+Punjab,Patiala,2010,Rabi,Wheat,9078.3,23037.3
+Punjab,Patiala,2010,Kharif,Cotton,5844.0,5454.1
+Punjab,Patiala,2010,Kharif,Sugarcane,6543.3,301292.4
+Punjab,Patiala,2011,Kharif,Rice,9171.0,14778.0
+Punjab,Patiala,2011,Rabi,Wheat,6289.1,17781.4
+Punjab,Patiala,2011,Kharif,Cotton,4474.5,3779.9
+Punjab,Patiala,2011,Kharif,Sugarcane,3153.5,133314.6
+Punjab,Patiala,2012,Kharif,Rice,8124.6,12939.9
+Punjab,Patiala,2012,Rabi,Wheat,14680.7,45167.5
+Punjab,Patiala,2012,Kharif,Cotton,9751.4,9020.4
+Punjab,Patiala,2012,Kharif,Sugarcane,4551.9,183808.7
+Punjab,Patiala,2013,Kharif,Rice,5490.4,9275.6
+Punjab,Patiala,2013,Rabi,Wheat,6795.8,21220.9
+Punjab,Patiala,2013,Kharif,Cotton,20048.1,19853.2
+Punjab,Patiala,2014,Kharif,Rice,8143.6,13866.3
+Punjab,Patiala,2014,Rabi,Wheat,7635.4,23299.9
+Punjab,Patiala  ,2014,Kharif,Cotton,9604.0,9837.2
+Punjab,Patiala  ,2014,Kharif,Sugarcane,12244.6,623284.2
+Punjab,Patiala,2015,Kharif,Rice,12986.9,26087.9
+Punjab,Patiala  ,2015,Rabi,Wheat,6262.4,17587.9
+Punjab,Patiala,2015,Kharif,Cotton,8125.3,7702.7
+Punjab,Patiala,2015,Kharif,Sugarcane,8056.1,370867.8
+Punjab,Patiala  ,2016,Kharif,Rice,9894.0,18174.0
+Punjab,Patiala,2016,Rabi,Wheat,11164.4,32152.3
+Punjab,Patiala,2016,Kharif,Cotton,3889.5,3416.7
+Punjab,Patiala,2016,Kharif,Sugarcane,8343.1,406978.4
+Punjab,Patiala,2017,Kharif,Rice,12121.2,19894.6
+Punjab,Patiala,2017,Rabi,Wheat,6527.1,18845.2
+Punjab,Patiala,2017,Kharif,Cotton,7815.8,6892.3
+Punjab,Patiala,2018,Kharif,Rice,11491.2,17126.9
+Punjab,Patiala,2018,Rabi,Wheat,3106.4,9313.7
+Punjab,Patiala,2018,Kharif,Sugarcane,7163.2,309856.1
+Punjab,Patiala,2019,Kharif,Rice,7888.8,14011.0
+Punjab,Patiala,2019,Rabi,Wheat,12849.0,44311.2
+Punjab,Patiala,2019,Kharif,Cotton,4452.5,4159.8
+Punjab,Patiala,2020,Rabi,Wheat,6448.0,20219.4
+Punjab,Patiala  ,2020,Kharif,Sugarcane,5274.7,214153.1
+Punjab,Patiala  ,2021,Kharif,Rice,6522.4,10330.4
+Punjab,Patiala,2021,Rabi,Wheat,6845.3,22283.8
+Punjab,Patiala,2021,Kharif,Cotton,5705.5,5023.5
+Punjab,Patiala,2021,Kharif,Sugarcane,10164.3,430160.4
+Punjab,Patiala,2022,Kharif,Rice,9721.0,16623.2
+Punjab,Patiala,2022,Rabi,Wheat,7431.4,21753.8
+Punjab,Patiala,2022,Kharif,Cotton,5861.1,5022.9
+Karnataka,Dakshina Kannada,2005,Kharif,Rice,4224.6,10334.3
+Karnataka,Dakshina Kannada,2005,Rabi,Wheat,4670.7,15730.9
+Karnataka,Dakshina Kannada,2005,Kharif,Cotton,9756.7,12323.5
+Karnataka,Dakshina Kannada,2005,Kharif,Sugarcane,5861.2,341512.2
+Karnataka,Dakshina Kannada  ,2006,Kharif,Rice,14270.5,38219.2
+Karnataka,Dakshina Kannada,2006,Rabi,Wheat,4943.0,15196.8
+Karnataka,Dakshina Kannada,2006,Kharif,Cotton,15818.1,20158.8
+Karnataka,Dakshina Kannada,2006,Kharif,Sugarcane,6824.3,388230.1
+Karnataka,Dakshina Kannada,2007,Kharif,Rice,8491.4,19419.3
+Karnataka,Dakshina Kannada,2007,Rabi,Wheat,7362.2,21399.8
+Karnataka,Dakshina Kannada,2007,Kharif,Cotton,7349.1,10520.5
+Karnataka,Dakshina Kannada,2007,Kharif,Sugarcane,7122.8,415449.5
+Karnataka,Dakshina Kannada,2008,Kharif,Cotton,14326.3,17092.4
+Karnataka,Dakshina Kannada,2008,Kharif,Sugarcane,9339.5,574334.9
+Karnataka,Dakshina Kannada,2009,Kharif,Rice,4499.7,9213.0
+Karnataka,Dakshina Kannada,2009,Rabi,Wheat,12801.8,41311.6
+Karnataka,Dakshina Kannada,2009,Kharif,Sugarcane,12461.4,746354.5
+Karnataka,Dakshina Kannada,2010,Kharif,Rice,14579.2,38189.8
+Karnataka,Dakshina Kannada  ,2010,Rabi,Wheat,6696.5,20472.0
+Karnataka,Dakshina Kannada,2010,Kharif,Cotton,1848.1,2759.6
+Karnataka,Dakshina Kannada,2010,Kharif,Sugarcane,1290.8,89940.5
+Karnataka,Dakshina Kannada,2011,Kharif,Rice,10027.4,19618.8
+Karnataka,Dakshina Kannada,2011,Rabi,Wheat,4473.8,12283.2
+Karnataka,Dakshina Kannada,2011,Kharif,Sugarcane,6280.4,401231.7
+Karnataka,Dakshina Kannada,2012,Kharif,Rice,7992.3,19831.2
+Karnataka,Dakshina Kannada,2012,Rabi,Wheat,17955.2,57222.0
+Karnataka,Dakshina Kannada,2012,Kharif,Cotton,4846.6,6993.4
+Karnataka,Dakshina Kannada,2012,Kharif,Sugarcane,7858.8,543296.8
+Karnataka,Dakshina Kannada,2013,Kharif,Rice,7039.4,17567.0
+Karnataka,Dakshina Kannada,2013,Kharif,Cotton,8139.7,9484.7
+Karnataka,Dakshina Kannada,2013,Kharif,Sugarcane,7586.3,485418.4
+Karnataka,Dakshina Kannada,2014,Kharif,Rice,10890.0,28941.5
+Karnataka,Dakshina Kannada,2014,Rabi,Wheat,4752.4,12592.8
+Karnataka,Dakshina Kannada,2014,Kharif,Cotton,6509.6,9470.4
+Karnataka,Dakshina Kannada,2014,Kharif,Sugarcane,9987.6,720652.6
+Karnataka,Dakshina Kannada,2015,Kharif,Rice,3721.3,9092.4
+Karnataka,Dakshina Kannada,2015,Rabi,Wheat,11556.3,26570.6
+Karnataka,Dakshina Kannada,2015,Kharif,Cotton,10972.9,12830.2
+Karnataka,Dakshina Kannada,2015,Kharif,Sugarcane,9440.1,687302.4
+Karnataka,Dakshina Kannada,2016,Kharif,Rice,10822.2,24351.2
+Karnataka,Dakshina Kannada,2016,Rabi,Wheat,6284.2,15538.6
+Karnataka,Dakshina Kannada,2016,Kharif,Cotton,16761.4,23335.3
+Karnataka,Dakshina Kannada,2016,Kharif,Sugarcane,15438.2,951081.9
+Karnataka,Dakshina Kannada  ,2017,Kharif,Rice,9542.9,26691.1
+Karnataka,Dakshina Kannada,2017,Rabi,Wheat,8499.7,25490.8
+Karnataka,Dakshina Kannada,2017,Kharif,Cotton,12077.2,17324.7
+Karnataka,Dakshina Kannada,2017,Kharif,Sugarcane,5555.6,384236.3
+Karnataka,Dakshina Kannada,2018,Kharif,Rice,10983.5,29567.8
+Karnataka,Dakshina Kannada,2018,Kharif,Sugarcane,6632.8,522900.4
+Karnataka,Dakshina Kannada,2019,Kharif,Rice,9668.4,26372.1
+Karnataka,Dakshina Kannada,2019,Rabi,Wheat,16454.4,41909.4
+Karnataka,Dakshina Kannada,2019,Kharif,Cotton,3497.0,4936.3
+Karnataka,Dakshina Kannada,2019,Kharif,Sugarcane,4801.5,346868.4
+Karnataka,Dakshina Kannada,2020,Rabi,Wheat,6760.0,22108.4
+Karnataka,Dakshina Kannada,2020,Kharif,Cotton,9481.8,12777.3
+Karnataka,Dakshina Kannada,2020,Kharif,Sugarcane,9819.4,727435.0
+Karnataka,Dakshina Kannada,2021,Kharif,Rice,2788.4,7492.4
+Karnataka,Dakshina Kannada,2021,Rabi,Wheat,2689.4,9874.9
+Karnataka,Dakshina Kannada,2021,Kharif,Cotton,7981.5,10105.1
+Karnataka,Dakshina Kannada,2021,Kharif,Sugarcane,14487.1,909274.1
+Karnataka,Dakshina Kannada,2022,Kharif,Rice,6229.3,
+Karnataka,Dakshina Kannada,2022,Kharif,Cotton,7994.4,10670.5
+Karnataka,Dakshina Kannada,2022,Kharif,Sugarcane,6053.0,
+Karnataka,Udupi,2005,Kharif,Rice,11225.0,21925.0
+Karnataka,Udupi,2005,Rabi,Wheat,13018.7,38532.5
+Karnataka,Udupi,2005,Kharif,Cotton,8418.3,11701.7
+Karnataka,Udupi,2005,Kharif,Sugarcane,5206.1,327935.3
+Karnataka,Udupi,2006,Kharif,Rice,10493.3,30178.6
+Karnataka,Udupi,2006,Rabi,Wheat,9956.2,29481.1
+Karnataka,Udupi,2006,Kharif,Cotton,7224.0,10687.8
+Karnataka,Udupi,2006,Kharif,Sugarcane,27167.1,1806495.8
+Karnataka,Udupi,2007,Kharif,Rice,16700.7,
+Karnataka,Udupi,2007,Rabi,Wheat,9826.0,29327.8
+Karnataka,Udupi,2007,Kharif,Cotton,9992.2,14516.8
+Karnataka,Udupi,2007,Kharif,Sugarcane,16551.3,1057388.8
+Karnataka,Udupi,2008,Kharif,Rice,14091.3,32682.5
+Karnataka,Udupi,2008,Rabi,Wheat,7762.6,20248.9
+Karnataka,Udupi,2008,Kharif,Cotton,10043.8,11786.4
+Karnataka,Udupi,2008,Kharif,Sugarcane,7696.5,463593.0
+Karnataka,Udupi,2009,Kharif,Rice,4582.0,13660.8
+Karnataka,Udupi,2009,Rabi,Wheat,3607.6,10519.9
+Karnataka,Udupi,2009,Kharif,Cotton,8960.6,12613.2
+Karnataka,Udupi,2009,Kharif,Sugarcane,32591.4,2372888.0
+Karnataka,Udupi,2010,Kharif,Rice,16396.9,45656.6
+Karnataka,Udupi,2010,Kharif,Sugarcane,8251.5,551194.6
+Karnataka,Udupi  ,2011,Kharif,Rice,6522.6,12753.9
+Karnataka,Udupi,2011,Kharif,Cotton,11090.2,15023.9
+Karnataka,Udupi,2011,Kharif,Sugarcane,5938.1,308592.5
+Karnataka,Udupi,2012,Kharif,Rice,11904.4,33534.8
+Karnataka,Udupi,2012,Rabi,Wheat,5762.7,17929.3
+Karnataka,Udupi,2012,Kharif,Cotton,7736.1,11339.5
+Karnataka,Udupi,2013,Kharif,Rice,13017.2,30666.0
+Karnataka,Udupi,2013,Rabi,Wheat,14076.3,36660.3
+Karnataka,Udupi,2013,Kharif,Cotton,10789.9,15059.5
+Karnataka,Udupi,2013,Kharif,Sugarcane,4621.7,306083.2
+Karnataka,Udupi,2014,Kharif,Rice,4061.4,
+Karnataka,Udupi,2014,Rabi,Wheat,15351.7,44868.1
+Karnataka,Udupi  ,2014,Kharif,Cotton,16829.6,28467.4
+Karnataka,Udupi,2014,Kharif,Sugarcane,4496.6,322663.5
+Karnataka,Udupi,2015,Kharif,Rice,8418.7,22072.8
+Karnataka,Udupi,2015,Rabi,Wheat,14101.5,45849.4
+Karnataka,Udupi,2015,Kharif,Cotton,9539.7,13895.4
+Karnataka,Udupi,2016,Kharif,Cotton,7110.2,8871.6
+Karnataka,Udupi,2017,Kharif,Rice,19396.9,41652.4
+Karnataka,Udupi,2017,Rabi,Wheat,7081.6,20464.1
+Karnataka,Udupi,2017,Kharif,Cotton,5115.8,7538.6
+Karnataka,Udupi,2017,Kharif,Sugarcane,5677.5,351980.7
+Karnataka,Udupi,2018,Rabi,Wheat,15236.0,44251.5
+Karnataka,Udupi,2018,Kharif,Cotton,8150.3,10570.6
+Karnataka,Udupi,2018,Kharif,Sugarcane,8015.2,598726.5
+Karnataka,Udupi,2019,Kharif,Rice,2508.4,6729.5
+Karnataka,Udupi,2019,Rabi,Wheat,6097.4,18704.3
+Karnataka,Udupi,2019,Kharif,Cotton,11296.5,16161.3
+Karnataka,Udupi,2020,Kharif,Rice,13316.0,34399.6
+Karnataka,Udupi,2020,Rabi,Wheat,8771.2,26581.8
+Karnataka,Udupi,2020,Kharif,Cotton,9168.4,11578.7
+Karnataka,Udupi,2020,Kharif,Sugarcane,11340.2,634060.3
+Karnataka,Udupi,2021,Kharif,Rice,8005.4,20264.7
+Karnataka,Udupi,2021,Rabi,Wheat,2349.0,7338.3
+Karnataka,Udupi,2021,Kharif,Cotton,4419.0,6527.7
+Karnataka,Udupi,2021,Kharif,Sugarcane,7043.7,518723.8
+Karnataka,Udupi,2022,Kharif,Rice,4888.4,14196.1
+Karnataka,Udupi  ,2022,Rabi,Wheat,27334.6,76802.1
+Karnataka,Udupi,2022,Kharif,Cotton,6511.5,8791.0
+Maharashtra,Pune,2008,Kharif,Rice,7405.2,17218.5
