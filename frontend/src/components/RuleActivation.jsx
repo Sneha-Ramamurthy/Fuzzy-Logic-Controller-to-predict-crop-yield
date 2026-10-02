@@ -8,8 +8,8 @@ export default function RuleActivation({ firedRules }) {
     <div>
       {firedRules.map((r) => (
         <div className="rule" key={r.rule}>
-          <span>{r.rule}</span>
-          <span className="bar"><div style={{ width: `${r.strength * 100}%` }} /></span>
+          <div className="rule-top"><span>{r.rule}</span><b>{(r.strength * 100).toFixed(0)}%</b></div>
+          <div className="bar"><div style={{ width: `${r.strength * 100}%` }} /></div>
         </div>
       ))}
     </div>

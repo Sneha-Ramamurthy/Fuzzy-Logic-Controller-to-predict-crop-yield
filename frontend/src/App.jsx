@@ -37,7 +37,7 @@ export default function App() {
         <h1>Fuzzy Crop Yield Controller</h1>
         <div className="note">
           Can't reach the API at the configured VITE_API_BASE. Make sure the server is running
-          (<code>cd server && npm run dev</code>) and MongoDB is seeded (<code>npm run seed</code>).
+          (<code>cd backend &amp;&amp; uvicorn app.main:app --reload --port 8000</code>).
         </div>
       </div>
     );
@@ -45,27 +45,35 @@ export default function App() {
 
   return (
     <div className="wrap">
-      <header>
-        <h1>Fuzzy Crop Yield Controller</h1>
-        <div className="tag">MERN stack · Mamdani inference · live simulated field readings via Socket.IO</div>
+      <header className="topbar">
+        <div className="topbar-in">
+          <div className="brand">
+            <div className="logo">🌱</div>
+            <div>
+              <h1>Fuzzy Crop Yield Controller</h1>
+              <div className="tag">React + FastAPI · pure-Python Mamdani inference</div>
+            </div>
+          </div>
+          <span className="pill live">API connected</span>
+        </div>
       </header>
 
       <div className="note">
         Backend is seeded from a <b>synthetic demo dataset</b> matching the real crop_production.csv / rainfall.csv schema.
-        Swap in real data and re-run <code>npm run seed</code> to get real predictions — nothing else changes.
+        Replace <code>backend/data/crop_yield_fuzzy_dataset.csv</code> with real data and restart the backend — nothing else changes.
       </div>
 
       <div className="grid">
         <PredictionPanel crops={crops} crop={crop} setCrop={setCrop} config={config} onResult={handleResult} />
         <div className="card">
-          <h2>Rule activation</h2>
+          <h2>⚙️ Rule activation<span className="sub">{lastResult?.firedRules?.length ?? 0} fired</span></h2>
           <RuleActivation firedRules={lastResult?.firedRules} />
         </div>
       </div>
 
       {config && (
         <div className="card">
-          <h2>Membership functions — {crop}</h2>
+          <h2>📈 Membership functions<span className="sub">{crop}</span></h2>
           <div className="grid3">
             <div><label>Area</label><MembershipChart mf={config.area_mf_ha} unit=" ha" marker={lastInputs.area} /></div>
             <div><label>Rainfall</label><MembershipChart mf={config.rainfall_mf_mm} unit=" mm" marker={lastInputs.rainfall} /></div>

@@ -19,10 +19,10 @@ export default function MembershipChart({ mf, unit, marker }) {
     const [a, b, c] = mf[term];
     const pts = [[a, 0], [b, 1], [c, 0]];
     return (
-      <polyline
+      <polygon
         key={term}
         points={pts.map((p) => `${sx(p[0])},${sy(p[1])}`).join(" ")}
-        fill="none" stroke={color} strokeWidth="2"
+        fill={color} fillOpacity="0.18" stroke={color} strokeWidth="2" strokeLinejoin="round"
       />
     );
   };
@@ -30,6 +30,7 @@ export default function MembershipChart({ mf, unit, marker }) {
   const markerX = marker != null ? sx(Math.min(Math.max(marker, min), max)) : null;
 
   return (
+    <>
     <svg viewBox={`0 0 ${W} ${H}`} width="100%" height={H}>
       <line x1={PAD} y1={H - 14} x2={W - PAD} y2={H - 14} stroke="var(--line)" />
       {path("low", "var(--low)")}
@@ -41,5 +42,11 @@ export default function MembershipChart({ mf, unit, marker }) {
       <text x={PAD} y={H - 2} fontSize="9" fill="var(--sub)">{min.toFixed(0)}</text>
       <text x={W - PAD} y={H - 2} fontSize="9" fill="var(--sub)" textAnchor="end">{max.toFixed(0)}{unit}</text>
     </svg>
+    <div className="legend">
+      {[["low", "var(--low)"], ["medium", "var(--med)"], ["high", "var(--high)"]].map(([n, c]) => (
+        <span key={n}><i style={{ background: c }} />{n}</span>
+      ))}
+    </div>
+    </>
   );
 }

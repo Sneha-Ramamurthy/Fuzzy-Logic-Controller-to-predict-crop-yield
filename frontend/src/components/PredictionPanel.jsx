@@ -6,6 +6,11 @@ function boundsFromMF(mf) {
   return [Math.min(...all), Math.max(...all)];
 }
 
+function gaugePos(y, mf) {
+  const [lo, hi] = boundsFromMF(mf);
+  return Math.min(100, Math.max(0, ((y - lo) / (hi - lo || 1)) * 100));
+}
+
 export default function PredictionPanel({ crops, crop, setCrop, config, onResult }) {
   const [area, setArea] = useState(0);
   const [rainfall, setRainfall] = useState(0);
@@ -44,16 +49,19 @@ export default function PredictionPanel({ crops, crop, setCrop, config, onResult
   const [aMin, aMax] = boundsFromMF(config.area_mf_ha);
   const [rMin, rMax] = boundsFromMF(config.rainfall_mf_mm);
 
+  const [yMin, yMax] = boundsFromMF(config.yield_mf_t_ha);
   return (
     <div className="card">
-      <h2>Prediction scenario</h2>
-      <div style={{ marginBottom: 16 }}>
+      <h2>🌾 Prediction scenario</h2>
+      <div className="field">
         <label>Crop</label>
-        <select value={crop} onChange={(e) => setCrop(e.target.value)}>
-          {crops.map((c) => <option key={c} value={c}>{c}</option>)}
-        </select>
+        <div className="chips" style={{ marginBottom: 0 }}>
+          {crops.map((c) => (
+            <button key={c} className={"chip" + (c === crop ? " on" : "")} onClick={() => setCrop(c)}>{c}</button>
+          ))}
+        </div>
       </div>
-      <div style={{ marginBottom: 16 }}>
+      <div className="field">
         <div className="sliderval"><span>Cultivated area</span><b>{Math.round(area).toLocaleString()} ha</b></div>
         <input type="range" min={aMin} max={aMax} step={(aMax - aMin) / 100} value={area}
           onChange={(e) => setArea(Number(e.target.value))} />
@@ -63,9 +71,15 @@ export default function PredictionPanel({ crops, crop, setCrop, config, onResult
         <input type="range" min={rMin} max={rMax} step={(rMax - rMin) / 100} value={rainfall}
           onChange={(e) => setRainfall(Number(e.target.value))} />
       </div>
-      <div className="bigwrap">
+      <div className="result">
         <div className="big">{result?.predictedYield != null ? result.predictedYield.toFixed(2) : (loading ? "…" : "–")}</div>
         <div className="biglabel">Predicted yield, tonnes / hectare</div>
+        {result?.predictedYield != null && (
+          <>
+            <div className="gauge"><i style={{ left: `${gaugePos(result.predictedYield, config.yield_mf_t_ha)}%` }} /></div>
+            <div className="gauge-lbl"><span>{yMin.toFixed(2)}</span><span>{yMax.toFixed(2)}</span></div>
+          </>
+        )}
       </div>
     </div>
   );
