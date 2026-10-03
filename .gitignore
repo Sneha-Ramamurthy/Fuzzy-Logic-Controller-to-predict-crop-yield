@@ -1,4 +1,6 @@
 node_modules/
-.env
 dist/
-*.log
+__pycache__/
+.venv/
+.env
+.pytest_cache/
