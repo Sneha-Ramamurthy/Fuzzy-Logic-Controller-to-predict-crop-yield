@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Crop Yield Predictor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🌱 Crop Yield Predictor</h1>
+    <p>Pick a crop, tell us your field size and expected rainfall, and get an instant yield estimate powered by fuzzy logic and 18 years of Indian district data.</p>
+  </header>
+  <div id="error" class="alert" role="alert" hidden></div>
+  <main>
+    <section class="card">
+      <h2>1. Your field</h2>
+      <div class="field"><label>Crop</label><div class="chips" id="crops">Loading crops…</div></div>
+      <div class="field">
+        <label>Cultivated area<small>Land under this crop</small></label>
+        <div class="row"><input type="number" id="areaNum"><span>ha</span></div>
+        <input type="range" id="areaRange">
+      </div>
+      <div class="field">
+        <label>Season rainfall<small>Total rain during the growing season</small></label>
+        <div class="row"><input type="number" id="rainNum"><span>mm</span></div>
+        <input type="range" id="rainRange">
+      </div>
+      <div class="presets">
+        <button class="chip" data-p="0.2">☀️ Dry year</button>
+        <button class="chip" data-p="0.5">⛅ Normal</button>
+        <button class="chip" data-p="0.8">🌧️ Wet year</button>
+      </div>
+    </section>
+    <section class="card result" id="result">
+      <h2>2. Your estimate</h2>
+      <div id="resultBody" class="muted">Loading…</div>
+    </section>
+  </main>
+  <section class="card" id="reliability" hidden></section>
+  <footer>Estimates are for guidance only. Real yields also depend on soil, irrigation, seed and fertiliser.</footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
